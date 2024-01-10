@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-benbjohnson-clock (1.3.0-1) unstable; urgency=medium
+
+  * New upstream release v1.3.0
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 28 Jan 2022 22:35:20 +0800
+
+golang-github-benbjohnson-clock (1.2.0-2) unstable; urgency=medium
+
+  * Source-only upload for testing migration
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 19 Nov 2021 03:09:56 +0800
+
+golang-github-benbjohnson-clock (1.2.0-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Tue, 09 Nov 2021 01:47:52 +0800
